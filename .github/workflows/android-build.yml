@@ -72,5 +72,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: alanraju101/Dockerfile:latest
+          tags: alanraju101/flutterdockerimage:latest
 
